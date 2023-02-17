@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SpringBoot and JavaScript.**
 
-- 👨‍💻 All of my projects are available at [github.com/azure7896](github.com/azure7896)
+- 👨‍💻 All of my projects are available at [github.com/azure7896](github.com/Azure7896)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
