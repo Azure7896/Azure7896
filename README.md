@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [OrionStore, a web store that sells computer hardware.](https://github.com/Azure7896/OrionStore)
 
-- 🌱 I’m currently learning **SpringBoot and JavaScript.**
+- 🌱 I’m currently learning **SpringBoot and Angular.**
 
 
 <h3 align="left">Connect with me:</h3>
