@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Szymon, welcome to my profile!</h1>
 <h3 align="center">I'm a third year student in Katowice Institute of Information Technologies (WSTI).</h3>
 
-- 🔭 I’m currently working on [OrionStore, a web store that sells computer hardware.](https://github.com/Azure7896/OrionStore)
+- 🔭 I’m currently working on [ZeroOne - ticketing system for IT department.](https://github.com/Azure7896/ZeroOne-TicketingSystem-Frontend)
 
 - 🌱 I’m currently learning **SpringBoot and Angular.**
 
